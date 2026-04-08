@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LunaX\\source\\repos\\lab8\\lab8\\SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj": {}
+    "C:\\Users\\LunaX\\source\\repos\\lab8\\lab8\\Exercise2_MVC\\SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LunaX\\source\\repos\\lab8\\lab8\\SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj": {
+    "C:\\Users\\LunaX\\source\\repos\\lab8\\lab8\\Exercise2_MVC\\SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LunaX\\source\\repos\\lab8\\lab8\\SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj",
+        "projectUniqueName": "C:\\Users\\LunaX\\source\\repos\\lab8\\lab8\\Exercise2_MVC\\SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj",
         "projectName": "SchoolAppCoreMVC",
-        "projectPath": "C:\\Users\\LunaX\\source\\repos\\lab8\\lab8\\SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj",
+        "projectPath": "C:\\Users\\LunaX\\source\\repos\\lab8\\lab8\\Exercise2_MVC\\SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj",
         "packagesPath": "C:\\Users\\LunaX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LunaX\\source\\repos\\lab8\\lab8\\SchoolAppCoreMVC\\obj\\",
+        "outputPath": "C:\\Users\\LunaX\\source\\repos\\lab8\\lab8\\Exercise2_MVC\\SchoolAppCoreMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

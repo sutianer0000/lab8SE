@@ -3,6 +3,7 @@ using SchoolAppCoreMVC.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddControllersWithViews(); // <- enable MVC controllers + views
 builder.Services.AddRazorPages();
 
 // Register EF Core context and connection string
@@ -21,5 +22,10 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthorization();
+
+app.MapControllerRoute( // <- map default MVC route
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
 app.MapRazorPages();
 app.Run();
